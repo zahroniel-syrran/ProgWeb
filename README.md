@@ -25,7 +25,7 @@ A estrutura de pastas pode variar conforme o conteúdo das aulas. Em geral, voc�
 
 - 📁 /documentos → Textos de apoio, PDFs e resumos
 - 📁 /exercicios → Atividades e roteiros práticos
-- 📁 /codigos → Exemplos de código (HTML, CSS, JS, PHP, etc.)
+- 📁 /codigos → Exemplos de código (HTML, CSS, JavaScript, PHP, BootStrap etc.)
 - 📁 /imagens → Recursos visuais usados nas aulas
 - 📁 /projetos → Modelos e estruturas de projetos desenvolvidos
 
