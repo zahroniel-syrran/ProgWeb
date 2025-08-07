@@ -40,7 +40,7 @@ Para acessar o conteúdo localmente:
    ```bash ou CMD
    git clone https://github.com/zahroniel-syrran/ProgWeb.git
 Navegue pelas pastas para acessar os materiais:
-cd ProgrammingAndAlgorithms
+cd ProgWeb
 Abra os arquivos com seu editor favorito ou navegador, conforme o tipo de conteúdo.
 
 📖 Licença e uso do conteúdo
